@@ -1,0 +1,387 @@
+Library Name	host_subject_id	Host_Age	host_sex	Host_disease
+PSMA267P	6035	16.0	male	Ulcerative colitis
+HSMA33PZ	4038	15.0	male	Crohn''s disease
+MSM5LLDI	2008	30.0	female	Crohn''s disease
+HSM7CZ3G	4031	12.0	male	Crohn''s disease
+MSM9VZHB	2061	56.0	male	None
+ESM718TM	5013	15.0	female	Crohn''s disease
+PSMA266I	6037	15.0	male	Crohn''s disease
+HSM7CYY3	4017	16.0	female	Crohn''s disease
+HSM6XRV2	4019	11.0	female	Ulcerative colitis
+MSMAPC7T	2077	32.0	female	None
+HSMA33QO	4045	14.0	female	None
+MSMAPC7J	2075	61.0	male	None
+PSMA269W	6038	16.0	female	Ulcerative colitis
+HSMA33KM	4038	15.0	male	Crohn''s disease
+CSM9X22G	3032	42.0	female	Ulcerative colitis
+HSMA33OR	4035	16.0	male	Ulcerative colitis
+MSM9VZPL	2085	23.0	male	Crohn''s disease
+MSM9VZNX	2083	25.0	male	Ulcerative colitis
+HSM7J4OT	4030	16.0	male	Crohn''s disease
+PSM7J161	6028	9.0	male	Crohn''s disease
+HSM6XRRD	4019	11.0	female	Ulcerative colitis
+CSM79HHO	3021	38.0	female	Crohn''s disease
+HSMA33Q6	4038	15.0	male	Crohn''s disease
+MSMAPC6G	2085	23.0	male	Crohn''s disease
+MSMAPC6K	2084	23.0	female	None
+PSMA26A3	6038	16.0	female	Ulcerative colitis
+HSMA33M8	4040	17.0	female	Ulcerative colitis
+MSM9VZHF	2061	56.0	male	None
+PSMA265H	6018	17.0	female	None
+PSMA265T	6016	16.0	male	Crohn''s disease
+MSM9VZJ3	2085	23.0	male	Crohn''s disease
+MSM9VZIQ	2083	25.0	male	Ulcerative colitis
+CSM79HH8	3023	60.0	male	Crohn''s disease
+ESM5MEDD	5009	17.0	female	Crohn''s disease
+MSM9VZL9	2084	23.0	female	None
+MSM9VZKE	2079	29.0	male	None
+PSMA265N	6016	16.0	male	Crohn''s disease
+HSMA33JB	4031	12.0	male	Crohn''s disease
+CSM79HN6	3021	38.0	female	Crohn''s disease
+PSMA2675	6038	16.0	female	Ulcerative colitis
+MSMA26DO	2097	21.0	male	None
+PSMA266Q	6037	15.0	male	Crohn''s disease
+HSMA33L1	4039	12.0	female	Crohn''s disease
+MSMA26ET	2064	74.0	male	Ulcerative colitis
+HSMA33MZ	4042	15.0	male	Ulcerative colitis
+HSM7J4NU	4040	17.0	female	Ulcerative colitis
+MSM9VZNL	2047	57.0	male	None
+MSM9VZMU	2084	23.0	female	None
+MSM9VZLJ	2061	56.0	male	None
+PSM7J12F	6013	6.0	male	Ulcerative colitis
+HSMA33O1	4027	15.0	male	Ulcerative colitis
+HSM7J4QB	4015	15.0	male	Crohn''s disease
+HSM5MD7J	4001	14.0	male	Crohn''s disease
+HSM5MD4O	4007	15.0	female	Crohn''s disease
+ESM5MEBE	5001	8.0	female	Crohn''s disease
+HSM7J4PE	4019	11.0	female	Ulcerative colitis
+HSMA33OZ	4035	16.0	male	Ulcerative colitis
+MSMA267V	2103	35.0	female	Ulcerative colitis
+HSMA33J5	4045	14.0	female	None
+MSM9VZIM	2083	25.0	male	Ulcerative colitis
+HSM7J4IU	4022	9.0	female	None
+MSM9VZF7	2060	62.0	female	None
+PSM7J158	6016	16.0	male	Crohn''s disease
+HSM67VI5	4024	11.0	male	None
+MSM6J2PO	2047	57.0	male	None
+MSMB4LZK	2097	21.0	male	None
+MSMA26EJ	2069	29.0	female	Ulcerative colitis
+PSMA267J	6035	16.0	male	Ulcerative colitis
+MSMA26AZ	2071	26.0	female	Ulcerative colitis
+MSMA26BB	2084	23.0	female	None
+HSMA33NQ	4039	12.0	female	Crohn''s disease
+MSM9VZOU	2069	29.0	female	Ulcerative colitis
+MSM9VZJZ	2075	61.0	male	None
+MSM9VZLV	2064	74.0	male	Ulcerative colitis
+PSM7J14T	6010	10.0	male	Crohn''s disease
+HSM5MD79	4001	14.0	male	Crohn''s disease
+CSM7KOO9	3031	None	female	Crohn''s disease
+CSMAG78W	3022	69.0	male	None
+HSMA33NY	4045	14.0	female	None
+HSM7J4I7	4024	11.0	male	None
+MSM79H85	2072	51.0	male	None
+CSM7KONK	3023	60.0	male	Crohn''s disease
+CSM7KOSV	3021	38.0	female	Crohn''s disease
+HSM7J4O1	4024	11.0	male	None
+CSMAIG7X	3027	36.0	female	Crohn''s disease
+PSMA264Q	6035	16.0	male	Ulcerative colitis
+PSM7J156	6014	15.0	male	None
+HSMA33R9	4043	14.0	female	Crohn''s disease
+CSM9X23B	3035	62.0	male	Crohn''s disease
+CSM9X237	3035	62.0	male	Crohn''s disease
+HSMA33R7	4043	14.0	female	Crohn''s disease
+CSM7KOSP	3030	44.0	male	Crohn''s disease
+HSM7J4JF	4038	15.0	male	Crohn''s disease
+PSM7J12V	6025	17.0	male	Ulcerative colitis
+MSM79H6Y	2048	28.0	male	None
+MSM9VZOO	2072	51.0	male	None
+CSM9X1YV	3035	62.0	male	Crohn''s disease
+CSM9X22U	3037	46.0	female	Ulcerative colitis
+CSM7KORK	3028	33.0	male	Crohn''s disease
+CSM7KOU9	3032	42.0	female	Ulcerative colitis
+CSM9X213	3037	46.0	female	Ulcerative colitis
+MSM79HAN	2064	74.0	male	Ulcerative colitis
+CSM7KOKZ	3028	33.0	male	Crohn''s disease
+PSM6XBUO	6010	10.0	male	Crohn''s disease
+CSM7KOOH	3022	69.0	male	None
+CSMA9J65	3027	36.0	female	Crohn''s disease
+CSM7KOUL	3037	46.0	female	Ulcerative colitis
+PSM7J15M	6018	17.0	female	None
+CSM9X211	3037	46.0	female	Ulcerative colitis
+MSMA26DG	2097	21.0	male	None
+CSM7KOOV	3027	36.0	female	Crohn''s disease
+ESM9IEP1	5013	15.0	female	Crohn''s disease
+HSM7J4M4	4019	11.0	female	Ulcerative colitis
+CSM7KOPS	3016	32.0	female	Crohn''s disease
+CSM7KOLY	3029	32.0	male	Ulcerative colitis
+CSM7KOMB	3030	44.0	male	Crohn''s disease
+HSMA33NW	4044	16.0	male	Ulcerative colitis
+MSMA26AL	2068	19.0	female	Crohn''s disease
+HSMA33J9	4045	14.0	female	None
+CSM7KOKB	3016	32.0	female	Crohn''s disease
+CSM79HR6	3027	36.0	female	Crohn''s disease
+CSM7KONA	3023	60.0	male	Crohn''s disease
+CSM7KOKN	3017	45.0	male	Crohn''s disease
+MSM9VZME	2077	32.0	female	None
+HSM7J4NA	4028	13.0	female	Crohn''s disease
+MSM9VZOI	2072	51.0	male	None
+CSM79HRG	3031	None	female	Crohn''s disease
+HSMA33MI	4035	16.0	male	Ulcerative colitis
+MSMA26CX	2085	23.0	male	Crohn''s disease
+CSM7KOTU	3035	62.0	male	Crohn''s disease
+CSM9X1Y5	3029	32.0	male	Ulcerative colitis
+CSM7KOTK	3023	60.0	male	Crohn''s disease
+CSM7KOOF	3031	None	female	Crohn''s disease
+CSM7KOLK	3021	38.0	female	Crohn''s disease
+CSM7KOQ1	3016	32.0	female	Crohn''s disease
+CSM7KOPE	3032	42.0	female	Ulcerative colitis
+CSM7KORU	3034	36.0	female	Ulcerative colitis
+HSMA33JP	4032	12.0	male	Crohn''s disease
+MSM9VZHR	2072	51.0	male	None
+CSM9X1ZC	3031	None	female	Crohn''s disease
+CSM9X21J	3034	36.0	female	Ulcerative colitis
+HSMA33RX	4044	16.0	male	Ulcerative colitis
+CSM67UEW	3011	37.0	female	Ulcerative colitis
+PSM6XBRK	6009	16.0	male	Crohn''s disease
+HSM5MD6A	4014	10.0	female	Crohn''s disease
+HSM6XRVC	4013	8.0	male	None
+CSM79HLA	3004	47.0	female	Ulcerative colitis
+PSM6XBQY	6005	11.0	male	Crohn''s disease
+CSM79HPA	3023	60.0	male	Crohn''s disease
+MSM79HDQ	2068	19.0	female	Crohn''s disease
+MSM9VZEK	2068	19.0	female	Crohn''s disease
+HSM7CYYF	4018	13.0	female	None
+CSM67UAQ	3015	50.0	female	Ulcerative colitis
+CSM67UBB	3017	45.0	male	Crohn''s disease
+MSMAPC5D	2083	25.0	male	Ulcerative colitis
+CSM67UB1	3016	32.0	female	Crohn''s disease
+MSMB4LXW	2097	21.0	male	None
+PSMB4MBK	6035	16.0	male	Ulcerative colitis
+MSMB4LZ4	2071	26.0	female	Ulcerative colitis
+MSMB4LXY	2085	23.0	male	Crohn''s disease
+HSMA33SG	4045	14.0	female	None
+CSM79HP4	3022	69.0	male	None
+CSM79HLM	3003	43.0	female	Ulcerative colitis
+ESM718SY	5004	7.0	female	Ulcerative colitis
+CSM79HIJ	3015	50.0	female	Ulcerative colitis
+CSM79HGZ	3022	69.0	male	None
+CSM79HMN	3006	32.0	male	Ulcerative colitis
+MSM9VZHX	2077	32.0	female	None
+PSMA263W	6024	16.0	male	Crohn''s disease
+HSMA33OJ	4040	17.0	female	Ulcerative colitis
+MSM9VZP3	2069	29.0	female	Ulcerative colitis
+CSM7KOP8	3032	42.0	female	Ulcerative colitis
+CSM79HKZ	3028	33.0	male	Crohn''s disease
+MSM79H63	2028	24.0	female	Crohn''s disease
+CSM79HJS	3027	36.0	female	Crohn''s disease
+PSM6XBSS	6005	11.0	male	Crohn''s disease
+PSM6XBVM	6012	16.0	female	Ulcerative colitis
+PSM6XBSK	6010	10.0	male	Crohn''s disease
+CSM79HOJ	3012	37.0	female	Crohn''s disease
+MSMB4LYB	2085	23.0	male	Crohn''s disease
+MSMB4LZ8	2079	29.0	male	None
+HSMA33SK	4045	14.0	female	None
+MSMB4LYH	2103	35.0	female	Ulcerative colitis
+PSMB4MC5	6038	16.0	female	Ulcerative colitis
+MSMB4LZX	2084	23.0	female	None
+MSMB4LZC	2077	32.0	female	None
+MSMB4LZR	2083	25.0	male	Ulcerative colitis
+MSMA26BR	2079	29.0	male	None
+MSM9VZI6	2077	32.0	female	None
+PSM7J15U	6018	17.0	female	None
+PSMA265X	6038	16.0	female	Ulcerative colitis
+CSM79HJM	3027	36.0	female	Crohn''s disease
+ESM718UH	5009	17.0	female	Crohn''s disease
+HSM6XRS8	4015	15.0	male	Crohn''s disease
+CSM67UH7	3022	69.0	male	None
+CSM67UEI	3005	58.0	female	Ulcerative colitis
+HSM7J4LP	4039	12.0	female	Crohn''s disease
+PSM7J17X	6018	None	female	None
+CSM7KOMT	3011	25.0	female	Ulcerative colitis
+MSM6J2HT	2039	None	female	None
+HSM6XRSG	4004	14.0	male	Crohn''s disease
+MSM6J2LT	2021	26.0	male	Crohn''s disease
+ESM718V8	5013	15.0	female	Crohn''s disease
+ESM5MEC5	5004	7.0	female	Ulcerative colitis
+MSM6J2R2	2027	41.0	male	Crohn''s disease
+HSM67VCZ	4020	13.0	male	Crohn''s disease
+MSM5LLDS	2008	30.0	female	Crohn''s disease
+HSM5MD6K	4013	None	male	None
+HSM6XRQB	4017	16.0	female	Crohn''s disease
+PSM7J14X	6014	None	male	None
+HSM7J4O3	4024	None	male	None
+HSM7J4OZ	4032	12.0	male	Crohn''s disease
+CSM67UA2	3001	28.0	female	Crohn''s disease
+MSM79H7M	2071	23.0	female	Ulcerative colitis
+HSM7J4HS	4035	16.0	male	Ulcerative colitis
+MSM6J2JR	2041	None	male	None
+MSM79H6F	2042	None	male	None
+CSM79HIB	3009	44.0	male	Crohn''s disease
+MSM79HEY	2041	None	male	None
+HSM7J4G1	4022	None	female	None
+MSM79HAJ	2064	74.0	male	Ulcerative colitis
+CSM7KOLA	3010	30.0	female	Crohn''s disease
+PSM7J19J	6016	16.0	male	Crohn''s disease
+CSM79HGP	3001	28.0	female	Crohn''s disease
+MSM6J2RO	2042	None	male	None
+CSM67UBN	3002	47.0	female	Crohn''s disease
+HSM67VES	4022	None	female	None
+HSM6XRTM	4010	13.0	male	Ulcerative colitis
+MSM6J2QP	2039	None	female	None
+HSM7J4MS	4032	12.0	male	Crohn''s disease
+PSM7J16Y	6017	None	male	None
+PSM7J141	6009	16.0	male	Crohn''s disease
+PSM7J13E	6005	11.0	male	Crohn''s disease
+MSM5LLDA	2008	30.0	female	Crohn''s disease
+MSM6J2J5	2025	43.0	female	Crohn''s disease
+CSM5MCXL	3004	33.0	female	Ulcerative colitis
+CSM5MCWE	3009	44.0	male	Crohn''s disease
+CSM7KON8	3012	30.0	female	Crohn''s disease
+HSM7J4IC	4032	12.0	male	Crohn''s disease
+HSM7J4JZ	4035	16.0	male	Ulcerative colitis
+CSM5MCVN	3002	47.0	female	Crohn''s disease
+MSM79H8D	2075	None	male	None
+HSM7J4QT	4014	10.0	female	Crohn''s disease
+HSM7J4L9	4030	16.0	male	Crohn''s disease
+HSM7J4KK	4023	None	male	None
+MSM79HB6	2041	None	male	None
+HSM7J4LN	4018	None	female	None
+MSM6J2IQ	2014	30.0	male	Crohn''s disease
+CSM79HPS	3013	13.0	female	Ulcerative colitis
+PSM7J1A2	6018	None	female	None
+HSM6XRVW	4014	10.0	female	Crohn''s disease
+PSM7J19B	6016	16.0	male	Crohn''s disease
+PSM6XBUG	6010	10.0	male	Crohn''s disease
+MSM6J2MH	2034	22.0	female	Crohn''s disease
+HSM7CYZJ	4022	None	female	None
+CSM79HKB	3010	30.0	female	Crohn''s disease
+MSM6J2PU	2047	None	male	None
+HSM67VGG	4009	None	female	None
+CSM79HI7	3009	44.0	male	Crohn''s disease
+ESM718TF	5013	15.0	female	Crohn''s disease
+HSM7CYX2	4006	8.0	male	Crohn''s disease
+MSM6J2LL	2034	22.0	female	Crohn''s disease
+CSM67UBH	3002	47.0	female	Crohn''s disease
+ESM5MEBG	5001	8.0	female	Crohn''s disease
+CSM67UAA	3009	44.0	male	Crohn''s disease
+MSM6J2Q3	2028	24.0	female	Crohn''s disease
+HSM7J4MY	4028	13.0	female	Crohn''s disease
+MSM6J2KE	2027	41.0	male	Crohn''s disease
+HSM5MD5P	4004	14.0	male	Crohn''s disease
+CSM5MCY8	3005	58.0	female	Ulcerative colitis
+PSM7J14L	6010	10.0	male	Crohn''s disease
+HSM7J4OE	4031	12.0	male	Crohn''s disease
+MSM9VZFR	2079	None	male	None
+MSM6J2J1	2014	30.0	male	Crohn''s disease
+MSM6J2K6	2042	None	male	None
+HSM5MD3Y	4010	13.0	male	Ulcerative colitis
+HSM5MD7O	4006	8.0	male	Crohn''s disease
+CSM5MCX3	3006	24.0	male	Ulcerative colitis
+HSM7J4MK	4031	12.0	male	Crohn''s disease
+HSM67VGA	4009	None	female	None
+PSM6XBSE	6012	16.0	female	Ulcerative colitis
+MSM6J2M3	2048	None	male	None
+HSM5MD5D	4008	None	female	None
+CSM7KOLE	3010	30.0	female	Crohn''s disease
+MSM79H9G	2060	None	female	None
+HSM5MD43	4010	13.0	male	Ulcerative colitis
+CSM7KOPI	3015	37.0	female	Ulcerative colitis
+MSM79HAH	2039	None	female	None
+HSM7J4J7	4038	15.0	male	Crohn''s disease
+MSM9VZLP	2064	74.0	male	Ulcerative colitis
+MSM79H5G	2061	None	male	None
+MSM79HDE	2069	29.0	female	Ulcerative colitis
+MSM79HA3	2042	None	male	None
+HSM7J4LD	4018	None	female	None
+CSM7KON2	3012	30.0	female	Crohn''s disease
+HSM7J4GR	4027	15.0	male	Ulcerative colitis
+PSM7J1BF	6012	16.0	female	Ulcerative colitis
+HSM6XRQM	4017	16.0	female	Crohn''s disease
+HSM6XRRJ	4013	None	male	None
+CSM67UCK	3010	30.0	female	Crohn''s disease
+HSM6XRRV	4014	10.0	female	Crohn''s disease
+HSM6XRQW	4018	None	female	None
+CSM67UBZ	3003	29.0	female	Ulcerative colitis
+MSM6J2Q1	2048	None	male	None
+PSM7J17L	6016	16.0	male	Crohn''s disease
+HSM7J4HC	4023	None	male	None
+MSM79HDA	2069	29.0	female	Ulcerative colitis
+HSM7J4ME	4019	11.0	female	Ulcerative colitis
+HSM7J4N4	4028	13.0	female	Crohn''s disease
+HSM67VFZ	4008	None	female	None
+MSM6J2SE	2041	None	male	None
+HSM5MD41	4010	13.0	male	Ulcerative colitis
+HSM67VF3	4016	None	female	None
+HSM6XRSN	4007	15.0	female	Crohn''s disease
+CSM79HIT	3016	12.0	female	Crohn''s disease
+HSM7CYZT	4004	14.0	male	Crohn''s disease
+ESM7F5AK	5009	None	female	Crohn''s disease
+MSM6J2OP	2026	21.0	female	Ulcerative colitis
+HSM7J4PW	4020	13.0	male	Crohn''s disease
+PSM6XBT3	6013	6.0	male	Ulcerative colitis
+MSM79H9Q	2061	None	male	None
+HSM7J4HO	4035	16.0	male	Ulcerative colitis
+CSM7KOJO	3009	44.0	male	Crohn''s disease
+HSM7J4R2	4013	None	male	None
+MSM6J2LB	2008	30.0	female	Crohn''s disease
+ESM5MECL	5001	8.0	female	Crohn''s disease
+MSM6J2R8	2027	41.0	male	Crohn''s disease
+HSM67VD6	4020	13.0	male	Crohn''s disease
+PSM6XBSI	6010	10.0	male	Crohn''s disease
+CSM67UGO	3012	30.0	female	Crohn''s disease
+MSM6J2MB	2034	22.0	female	Crohn''s disease
+MSM5LLF4	2034	22.0	female	Crohn''s disease
+MSM6J2HF	2026	21.0	female	Ulcerative colitis
+ESM5MEBU	5004	7.0	female	Ulcerative colitis
+MSM6J2IG	2028	24.0	female	Crohn''s disease
+HSM7J4IS	4020	13.0	male	Crohn''s disease
+PSM7J193	6013	6.0	male	Ulcerative colitis
+MSM79H7Q	2047	None	male	None
+PSM7J17F	6028	9.0	male	Crohn''s disease
+MSM79H7Y	2047	None	male	None
+PSM7J12J	6024	16.0	male	Crohn''s disease
+MSM9VZGO	2061	None	male	None
+MSM79H5Q	2039	None	female	None
+HSM67VHF	4020	13.0	male	Crohn''s disease
+HSM6XRVO	4014	10.0	female	Crohn''s disease
+HSM7CYZ7	4015	15.0	male	Crohn''s disease
+HSM6XRVK	4013	None	male	None
+MSM79HCR	2072	None	male	None
+HSM7CYYB	4017	16.0	female	Crohn''s disease
+HSM67VH1	4010	13.0	male	Ulcerative colitis
+HSM7J4K8	4035	16.0	male	Ulcerative colitis
+PSM7J12R	6024	16.0	male	Crohn''s disease
+MSM9VZES	2068	19.0	female	Crohn''s disease
+MSM79H7G	2071	23.0	female	Ulcerative colitis
+HSM67VEE	4006	8.0	male	Crohn''s disease
+CSM67UDN	3004	33.0	female	Ulcerative colitis
+CSM67UFZ	3006	24.0	male	Ulcerative colitis
+CSM67UEA	3005	58.0	female	Ulcerative colitis
+PSM7J1CU	6009	16.0	male	Crohn''s disease
+HSM7J4KC	4023	None	male	None
+CSM5MCZF	3012	30.0	female	Crohn''s disease
+MSM9VZEW	2069	29.0	female	Ulcerative colitis
+PSM7J136	6005	11.0	male	Crohn''s disease
+HSM7J4KQ	4016	None	female	None
+HSM7J4NE	4027	15.0	male	Ulcerative colitis
+HSM7J4QJ	4015	15.0	male	Crohn''s disease
+HSM5MD62	4015	15.0	male	Crohn''s disease
+ESM5MEDN	5009	None	female	Crohn''s disease
+PSM7J177	6028	9.0	male	Crohn''s disease
+HSM7CZ38	4030	16.0	male	Crohn''s disease
+MSM79HC8	2047	None	male	None
+HSM7J4I3	4016	None	female	None
+PSM7J1CC	6005	11.0	male	Crohn''s disease
+PSM7J1AU	6013	6.0	male	Ulcerative colitis
+MSM9VZMM	2084	None	female	None
+HSM7CZ32	4030	16.0	male	Crohn''s disease
+HSM7CZ14	4004	14.0	male	Crohn''s disease
+HSM7CYXA	4006	8.0	male	Crohn''s disease
+HSM6XRTQ	4010	13.0	male	Ulcerative colitis
+HSM5MD73	4015	15.0	male	Crohn''s disease
+HSM67VFR	4018	None	female	None
+HSM6XRQ8	4023	None	male	None
+MSM6J2PM	2025	43.0	female	Crohn''s disease
+CSM67UF5	3011	25.0	female	Ulcerative colitis
+MSM6J2OH	2026	21.0	female	Ulcerative colitis
+CSM5MCZ3	3008	24.0	female	Crohn''s disease
